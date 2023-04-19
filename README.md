@@ -12,3 +12,5 @@ Final Group Project:
   * Hypothesis Testing and its significance
   * Shows exchange rate before and during the pandemic
   * Prediction of Japanese Yen exchange rate to U.S. Dollar using Linear Regression
+
+Taken: Spring of 2022
